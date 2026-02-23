@@ -16,7 +16,9 @@ img{
     max-width: 100%;
     height: auto;
 }
-
+.wel{
+    z-index:10;
+    position:relative;
 .navi{
     display: flex;
     justify-content: space-between;
@@ -1152,4 +1154,5 @@ select, input[type="range"]{
         font-size: 10px;
         text-align: center;
     }
+
 }
